@@ -7,26 +7,24 @@ export default function AboutMe() {
         <section className="flex flex-col gap-4 lg:w-1/2">
           <h2 className="text-lg font-bold">About Me</h2>
           <p className="text-gray-700">
-            Greetings! I&apos;m Raka Bayu, you can call me{" "}
-            <span className="font-semibold">Raka</span>
+            I&apos;m <span className="font-semibold">Raka Bayu</span>, a
+            self-taught frontend developer passionate about building modern,
+            responsive, and user-friendly web applications.
           </p>
           <p className="leading-relaxed text-gray-700">
-            I am a self-taught frontend developer who enjoys building modern,
-            responsive web applications whie continuosly improving my skills in{" "}
+            Over the past year, I have been continuosly improving my skills in{" "}
             <span className="font-semibold">
-              Javascript, React, Next.js, Typescript{" "}
+              JavaScript, React, Next.js, TypeScript{" "}
             </span>
-            and <span className="font-semibold">Tailwind CSS.</span>
+            and <span className="font-semibold">Tailwind CSS.</span> through
+            hands-on learning and personal projects.
           </p>
           <p className="leading-relaxed text-gray-700">
-            Through personal projects and hands-on practice, I have developed a
-            strong interest in creating clean{" "}
-            <span className="font-semibold">
-              user interfaces, solving problems
-            </span>{" "}
-            and learning how{" "}
+            I enjoy creating{" "}
+            <span className="font-semibold">user interfaces</span>, solving
+            technical problems, and learning how{" "}
             <span className="font-semibold">real-world applications</span> are
-            built.
+            designed built.
           </p>
         </section>
         <section className="flex justify-center lg:w-1/2">

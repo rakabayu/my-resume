@@ -1,10 +1,9 @@
 "use client";
-import Link from "next/link";
 import { useEffect, useState } from "react";
 
 export default function Header() {
   const [show, setShow] = useState(true);
-  const [lastScroll, setLasrScroll] = useState(0);
+  const [lastScroll, setLastrScroll] = useState(0);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -16,7 +15,7 @@ export default function Header() {
         setShow(true);
       }
 
-      setLasrScroll(current);
+      setLastrScroll(current);
     };
 
     window.addEventListener("scroll", handleScroll);

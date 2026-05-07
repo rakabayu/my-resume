@@ -24,12 +24,12 @@ export default function Projects() {
             Notes App
           </Link>
           <p className="mt-3 max-w-xl text-sm leading-relaxed text-gray-700">
-            Built to practice CRUD functionality, component structure, and local
-            state management through a clean note-taking interface focused on
-            productivity and usability.
+            Developed a note-taking application with CRUD functionality, local
+            state management, and reusable component architecture, focused on
+            delivering a clean and intuitive user experience.
           </p>
           <p className="mt-3 font-bold text-gray-700">
-            Typescript · NextJs · ReactJs · Tailwind
+            TypeScript · Next.js · React · Tailwind CSS
           </p>
         </div>
         {/*Weather App Projects*/}
@@ -55,7 +55,7 @@ export default function Projects() {
             information in a user-friendly layout.
           </p>
           <p className="mt-3 font-bold text-gray-700">
-            Typescript · NextJs · ReactJs · Tailwind · API
+            TypeScript · Next.js · React · Tailwind CSS · REST API
           </p>
         </div>
         {/*Recipe Finder App Project*/}
@@ -81,7 +81,8 @@ export default function Projects() {
             navigation flow.
           </p>
           <p className="mt-3 font-bold text-gray-700">
-            Typescript · NextJs · ReactJs · Tailwind · API · Route
+            TypeScript · Next.js · React · Tailwind CSS · REST API · Dynamic
+            Routing
           </p>
         </div>
       </div>

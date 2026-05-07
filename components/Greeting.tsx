@@ -7,9 +7,9 @@ export default function Greeting() {
         <span className="ml-6 block md:ml-10 lg:ml-16">Bayu</span>
       </p>
       <p className="max-w-md text-base leading-relaxed text-gray-700">
-        I&apos;m a <span className="font-semibold">frontend-focused</span>{" "}
-        software engineer dedicated to deliverig seamless user experience
-        through clean design and modern web development.
+        I&apos;m a <span className="font-semibold">frontend developer</span>{" "}
+        passionate about building responsive, user-friendly web applications
+        with clean design and modern technologies.
       </p>
     </section>
   );
