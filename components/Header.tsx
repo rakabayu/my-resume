@@ -51,7 +51,7 @@ export default function Header() {
             onClick={() => scrollToSection("expertise")}
             className="hover:underline"
           >
-            Expertise
+            Core Tech
           </button>
           <button
             onClick={() => scrollToSection("projects")}
