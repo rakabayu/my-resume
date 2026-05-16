@@ -28,6 +28,14 @@ export default function Contact() {
             whiteIcon="/github-white.png"
             href="https://github.com/rakabayu"
           />
+
+          {/* LinkedIn */}
+          <IconPillLink
+            label="LinkedIn"
+            blackIcon="/linkedin-black.png"
+            whiteIcon="/linkedin-white.png"
+            href="https://www.linkedin.com/in/raka-bayu-952712173/?skipRedirect=true"
+          />
         </div>
       </div>
     </section>
